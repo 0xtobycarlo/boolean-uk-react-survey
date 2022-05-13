@@ -76,7 +76,7 @@ function Main() {
 				<form className="form" onSubmit={onFormSubmit}>
 					<h2>Tell us what you think about your rubber duck!</h2>
 					<div className="form__group radio">
-						<h3>How do you rate your rubber duck's color?</h3>
+						<h3>How do you rate your rubber duck's color? 1-8, with 8 being the best!</h3>
 						<ul>
 
 							<li>
